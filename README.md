@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Composer 2 installation supported
+
 PHP PhantomJS
 =============
 
